@@ -1,0 +1,33 @@
+* {
+    background-color: #313b45;
+    color: white;
+}
+
+.introduction, .introduction * {
+    background-color: #243e58;
+    margin-bottom: 40px;
+    height: 100%;
+}
+
+.navigation * {
+    text-align: center;
+    background-color: #342972;
+    border-radius: 20px;
+}
+
+.experiencediv {
+    text-align: center;
+}
+.experiencediv table {
+    display: flex;
+    justify-content: center;
+}
+
+#experience, #skills, #education, #socialmedia, #contact {
+    text-align: center;
+    background-color: #2a163e;
+    border-radius: 50px;
+}
+#imagencool:hover {
+background-color: pink;
+}
